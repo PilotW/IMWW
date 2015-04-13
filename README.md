@@ -1,2 +1,2 @@
 # IMWW
-Projekt Interaktywnej Mapy Poznania, co z tego wyjdzie? Zobaczymy
+Projekt Interaktywnej Mapy Województwa Wielkopolskiego, co z tego wyjdzie? Zobaczymy
